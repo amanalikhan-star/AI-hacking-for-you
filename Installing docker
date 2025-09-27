@@ -1,0 +1,7 @@
+Install docker for windows or any machine through here
+
+https://docs.docker.com/engine/install/
+
+Download WSL2 by Going to Windows Powershell and running it as administrator then type command
+
+wsl --install
