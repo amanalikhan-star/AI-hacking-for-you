@@ -1,0 +1,8 @@
+Once you download the WSL2 make sure to follow these steps
+1) Write 
+wsl.exe --list --online 
+download (for this specifically ) 
+wsl.exe --install kali linux
+2) The powershell will change styles as of a kali linux cmd this means the download was successful
+3) go to the settings in docker and in the resources window you will fimd "wsl integraton" if the WSL install was successful it will show you the distribution you downloaded
+4) Thats it you have now integrated it with docker
